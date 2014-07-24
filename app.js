@@ -1,6 +1,6 @@
 //<debug>
 Ext.Loader.setPath({
-    'Ext': '../../src'
+    'Ext': 'src'
 });
 //</debug>
 

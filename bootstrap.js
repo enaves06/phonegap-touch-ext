@@ -5,18 +5,18 @@
  * metadata-driven class system features 
  */
 Ext.Loader.addClassPathMappings({
-  "Ext": "../../src",
-  "Ext.device.Purchases.Product": "../../src/device/purchases/Sencha.js",
-  "Ext.device.filesystem.DirectoryEntry": "../../src/device/filesystem/HTML5.js",
-  "Ext.device.filesystem.Entry": "../../src/device/filesystem/HTML5.js",
-  "Ext.device.filesystem.FileEntry": "../../src/device/filesystem/HTML5.js",
-  "Ext.device.filesystem.FileSystem": "../../src/device/filesystem/HTML5.js",
-  "Ext.device.purchases.Purchase": "../../src/device/purchases/Sencha.js",
-  "Ext.device.sqlite.Database": "../../src/device/sqlite/Sencha.js",
-  "Ext.device.sqlite.SQLResultSet": "../../src/device/sqlite/Sencha.js",
-  "Ext.device.sqlite.SQLResultSetRowList": "../../src/device/sqlite/Sencha.js",
-  "Ext.device.sqlite.SQLTransaction": "../../src/device/sqlite/Sencha.js",
-  "Ext.draw.engine.SvgContext.Gradient": "../../src/draw/engine/SvgContext.js",
+  "Ext": "src",
+  "Ext.device.Purchases.Product": "src/device/purchases/Sencha.js",
+  "Ext.device.filesystem.DirectoryEntry": "src/device/filesystem/HTML5.js",
+  "Ext.device.filesystem.Entry": "src/device/filesystem/HTML5.js",
+  "Ext.device.filesystem.FileEntry": "src/device/filesystem/HTML5.js",
+  "Ext.device.filesystem.FileSystem": "src/device/filesystem/HTML5.js",
+  "Ext.device.purchases.Purchase": "src/device/purchases/Sencha.js",
+  "Ext.device.sqlite.Database": "src/device/sqlite/Sencha.js",
+  "Ext.device.sqlite.SQLResultSet": "src/device/sqlite/Sencha.js",
+  "Ext.device.sqlite.SQLResultSetRowList": "src/device/sqlite/Sencha.js",
+  "Ext.device.sqlite.SQLTransaction": "src/device/sqlite/Sencha.js",
+  "Ext.draw.engine.SvgContext.Gradient": "src/draw/engine/SvgContext.js",
   "User": "app.js"
 });
 Ext.ClassManager.addNameAlternateMappings({
